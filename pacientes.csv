@@ -1,0 +1,6 @@
+id,nome,idade,peso,altura,pressao_arterial,colesterol,diabetes
+1,Maria,25,70,1.65,120,180,Nao
+2,Joao,45,85,1.75,140,220,Sim
+3,Ana,30,60,1.60,110,170,Nao
+4,Pedro,65,90,1.70,150,240,Sim
+5,Lucas,50,78,1.80,130,200,Nao
